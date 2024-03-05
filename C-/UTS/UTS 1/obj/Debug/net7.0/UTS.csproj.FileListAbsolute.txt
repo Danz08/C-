@@ -1,0 +1,14 @@
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\obj\Debug\net7.0\UTS.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\obj\Debug\net7.0\UTS.AssemblyInfoInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\obj\Debug\net7.0\UTS.AssemblyInfo.cs
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\obj\Debug\net7.0\UTS.csproj.CoreCompileInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\bin\Debug\net7.0\UTS.exe
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\bin\Debug\net7.0\UTS.deps.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\bin\Debug\net7.0\UTS.runtimeconfig.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\bin\Debug\net7.0\UTS.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\bin\Debug\net7.0\UTS.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\obj\Debug\net7.0\UTS.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\obj\Debug\net7.0\refint\UTS.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\obj\Debug\net7.0\UTS.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\obj\Debug\net7.0\UTS.genruntimeconfig.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS\obj\Debug\net7.0\ref\UTS.dll

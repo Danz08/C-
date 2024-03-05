@@ -1,0 +1,28 @@
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\bin\Debug\net7.0\UAS Safrin Nada Ramdani.exe
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\bin\Debug\net7.0\UAS Safrin Nada Ramdani.deps.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\bin\Debug\net7.0\UAS Safrin Nada Ramdani.runtimeconfig.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\bin\Debug\net7.0\UAS Safrin Nada Ramdani.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\bin\Debug\net7.0\UAS Safrin Nada Ramdani.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.AssemblyInfoInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.AssemblyInfo.cs
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.csproj.CoreCompileInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\refint\UAS Safrin Nada Ramdani.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.genruntimeconfig.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\ref\UAS Safrin Nada Ramdani.dll
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\bin\Debug\net7.0\UAS Safrin Nada Ramdani.exe
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\bin\Debug\net7.0\UAS Safrin Nada Ramdani.deps.json
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\bin\Debug\net7.0\UAS Safrin Nada Ramdani.runtimeconfig.json
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\bin\Debug\net7.0\UAS Safrin Nada Ramdani.dll
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\bin\Debug\net7.0\UAS Safrin Nada Ramdani.pdb
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.AssemblyInfoInputs.cache
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.AssemblyInfo.cs
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.csproj.CoreCompileInputs.cache
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.dll
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\refint\UAS Safrin Nada Ramdani.dll
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.pdb
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\UAS Safrin Nada Ramdani.genruntimeconfig.cache
+D:\DOKUMEN\Semester 1\DASAR PEMROGRAMAN\UAS\UAS Safrin Nada Ramdani\obj\Debug\net7.0\ref\UAS Safrin Nada Ramdani.dll

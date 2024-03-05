@@ -1,0 +1,14 @@
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\obj\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\obj\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.AssemblyInfoInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\obj\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.AssemblyInfo.cs
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\obj\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.csproj.CoreCompileInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\bin\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.exe
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\bin\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.deps.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\bin\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.runtimeconfig.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\bin\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\bin\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\obj\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\obj\Debug\net7.0\refint\HANGMAN Safrin Nada Ramdani UTS 2.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\obj\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\obj\Debug\net7.0\HANGMAN Safrin Nada Ramdani UTS 2.genruntimeconfig.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\HANGMAN Safrin Nada Ramdani UTS 2\obj\Debug\net7.0\ref\HANGMAN Safrin Nada Ramdani UTS 2.dll

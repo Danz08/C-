@@ -1,0 +1,56 @@
+D:\projek\UTS 3\bin\Debug\net7.0\UTS 3.exe
+D:\projek\UTS 3\bin\Debug\net7.0\UTS 3.deps.json
+D:\projek\UTS 3\bin\Debug\net7.0\UTS 3.runtimeconfig.json
+D:\projek\UTS 3\bin\Debug\net7.0\UTS 3.dll
+D:\projek\UTS 3\bin\Debug\net7.0\UTS 3.pdb
+D:\projek\UTS 3\obj\Debug\net7.0\UTS 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\projek\UTS 3\obj\Debug\net7.0\UTS 3.AssemblyInfoInputs.cache
+D:\projek\UTS 3\obj\Debug\net7.0\UTS 3.AssemblyInfo.cs
+D:\projek\UTS 3\obj\Debug\net7.0\UTS 3.csproj.CoreCompileInputs.cache
+D:\projek\UTS 3\obj\Debug\net7.0\UTS 3.dll
+D:\projek\UTS 3\obj\Debug\net7.0\refint\UTS 3.dll
+D:\projek\UTS 3\obj\Debug\net7.0\UTS 3.pdb
+D:\projek\UTS 3\obj\Debug\net7.0\UTS 3.genruntimeconfig.cache
+D:\projek\UTS 3\obj\Debug\net7.0\ref\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\bin\Debug\net7.0\UTS 3.exe
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\bin\Debug\net7.0\UTS 3.deps.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\bin\Debug\net7.0\UTS 3.runtimeconfig.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\bin\Debug\net7.0\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\bin\Debug\net7.0\UTS 3.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\obj\Debug\net7.0\UTS 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\obj\Debug\net7.0\UTS 3.AssemblyInfoInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\obj\Debug\net7.0\UTS 3.AssemblyInfo.cs
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\obj\Debug\net7.0\UTS 3.csproj.CoreCompileInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\obj\Debug\net7.0\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\obj\Debug\net7.0\refint\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\obj\Debug\net7.0\UTS 3.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\obj\Debug\net7.0\UTS 3.genruntimeconfig.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3\obj\Debug\net7.0\ref\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 3.exe
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 3.deps.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 3.runtimeconfig.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 3.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.AssemblyInfoInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.AssemblyInfo.cs
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.csproj.CoreCompileInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\refint\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.genruntimeconfig.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\ref\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 3.exe
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 3.deps.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 3.runtimeconfig.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 3.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.AssemblyInfoInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.AssemblyInfo.cs
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.csproj.CoreCompileInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\refint\UTS 3.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 3.genruntimeconfig.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 3 Safrin Nada Ramdani\obj\Debug\net7.0\ref\UTS 3.dll

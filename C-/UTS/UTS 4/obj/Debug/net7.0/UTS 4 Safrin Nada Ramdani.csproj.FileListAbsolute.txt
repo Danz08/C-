@@ -1,0 +1,28 @@
+D:\projek\UTS 4 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 4 Safrin Nada Ramdani.exe
+D:\projek\UTS 4 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 4 Safrin Nada Ramdani.deps.json
+D:\projek\UTS 4 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 4 Safrin Nada Ramdani.runtimeconfig.json
+D:\projek\UTS 4 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 4 Safrin Nada Ramdani.dll
+D:\projek\UTS 4 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 4 Safrin Nada Ramdani.pdb
+D:\projek\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.GeneratedMSBuildEditorConfig.editorconfig
+D:\projek\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.AssemblyInfoInputs.cache
+D:\projek\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.AssemblyInfo.cs
+D:\projek\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.csproj.CoreCompileInputs.cache
+D:\projek\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.dll
+D:\projek\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\refint\UTS 4 Safrin Nada Ramdani.dll
+D:\projek\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.pdb
+D:\projek\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.genruntimeconfig.cache
+D:\projek\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\ref\UTS 4 Safrin Nada Ramdani.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 4 Safrin Nada Ramdani.exe
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 4 Safrin Nada Ramdani.deps.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 4 Safrin Nada Ramdani.runtimeconfig.json
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 4 Safrin Nada Ramdani.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\bin\Debug\net7.0\UTS 4 Safrin Nada Ramdani.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.AssemblyInfoInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.AssemblyInfo.cs
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.csproj.CoreCompileInputs.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\refint\UTS 4 Safrin Nada Ramdani.dll
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.pdb
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\UTS 4 Safrin Nada Ramdani.genruntimeconfig.cache
+D:\DOKUMEN\DASAR PEMROGRAMAN\UTS Dasar Pemrograman S.1\UTS 4 Safrin Nada Ramdani\obj\Debug\net7.0\ref\UTS 4 Safrin Nada Ramdani.dll
